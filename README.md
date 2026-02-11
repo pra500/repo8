@@ -26,6 +26,10 @@ i tested an api on swagger then postman then rest assured then jenkins
 
 
   tested (selenimm java code) paytm site on headless mode and on incognito  
+
+
+
+ just for practice sake
   
   
 
